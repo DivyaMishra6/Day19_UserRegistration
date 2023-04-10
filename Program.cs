@@ -9,7 +9,8 @@ namespace UserRegistration
             Console.WriteLine("Welcome to User Registration Page!!");
 
             Console.WriteLine("********************************");
-            PasswordRule1UC5 obj = new PasswordRule1UC5();
+
+            PasswordRule2UC6 obj = new PasswordRule2UC6();
             Console.WriteLine("Enter the First Name:");
             string FName = Console.ReadLine();
             Console.WriteLine("Enter the Last Name:");
